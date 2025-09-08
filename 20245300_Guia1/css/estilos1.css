@@ -1,0 +1,38 @@
+/* Estilos extraídos del HTML embebido */
+
+/* Estilo para el body */
+body {
+    background-color: lightblue;
+}
+
+/* Estilo para el contenedor principal */
+.contenedor {
+    font-size: 20px;
+}
+
+/* Estilo para el título h2 */
+.titulo {
+    color: white;
+}
+
+/* Estilo para el primer párrafo */
+.primer-parrafo {
+    color: navy;
+    font-weight: bold;
+}
+
+/* Estilo para el segundo párrafo */
+.segundo-parrafo {
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+/* Estilo para el tercer párrafo */
+.tercer-parrafo {
+    font-size: 12px;
+}
+
+/* Estilo para el texto en cursiva */
+.texto-italic {
+    font-style: italic;
+}
